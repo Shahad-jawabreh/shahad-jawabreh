@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="linkedin.com/in/shahad-jawabreh-12849a271" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shahad-jawabreh-12849a271" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/shahad-jawabreh-12849a271/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin.com/in/shahad-jawabreh-12849a271" height="30" width="40" /></a>
 <a href="https://fb.com/https://www.facebook.com/shahadnaser.jawabreh.7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/shahadnaser.jawabreh.7" height="30" width="40" /></a>
 </p>
 

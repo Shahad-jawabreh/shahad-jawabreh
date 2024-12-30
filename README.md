@@ -3,8 +3,6 @@
 
 <h3 align="center">A passionate full-stack developer based in Palestine.</h3>
 
-- 🌱 I’m currently learning **game development.**
-
 - 📫 How to reach me **Shahadjawabreh3@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
